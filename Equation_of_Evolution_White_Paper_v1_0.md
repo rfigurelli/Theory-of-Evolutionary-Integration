@@ -112,17 +112,29 @@ The TEI framework offers a compelling synthesis: **evolution is not random adapt
 ## References
 
 \[1] R. Figurelli, *The Equation of Wisdom: An Intuitive Approach to Balancing AI and Human Values* Kindle Edition, 2022. Available: [https://a.co/d/3f8ZACw](https://a.co/d/3f8ZACw)
+
 \[2] R. Figurelli, *Modeling the Immeasurable: A Theory of Entanglement and Emergence*, 2022. Available: [https://github.com/rfigurelli/Modeling-the-Immeasurable](https://github.com/rfigurelli/Modeling-the-Immeasurable)
+
 \[3] R. Figurelli, *Theory of Primordial Harmony (TPH) – A Proposed Framework for Bridging the Classical and Quantum Realms*, 2023. Available: [https://github.com/rfigurelli/Theory-of-Primordial-Harmony](https://github.com/rfigurelli/Theory-of-Primordial-Harmony)
+
 \[4] R. Horodecki et al., "Quantum entanglement," *Rev. Mod. Phys.*, vol. 81, no. 2, pp. 865–942, 2009. Available: [https://doi.org/10.1103/RevModPhys.81.865](https://doi.org/10.1103/RevModPhys.81.865)
+
 \[5] C. E. Shannon, "A mathematical theory of communication," *Bell Syst. Tech. J.*, vol. 27, pp. 379–423, 623–656, 1948. Available: [https://ieeexplore.ieee.org/document/6773024](https://ieeexplore.ieee.org/document/6773024)
+
 \[6] I. Prigogine and I. Stengers, *Order Out of Chaos: Man’s New Dialogue with Nature*, Bantam Books, 1984. Available: [https://en.wikipedia.org/wiki/Order\_Out\_of\_Chaos\_(book)](https://en.wikipedia.org/wiki/Order_Out_of_Chaos_%28book%29)
+
 \[7] C. Darwin, *On the Origin of Species*, John Murray, 1859. Available: [https://www.gutenberg.org/ebooks/1228](https://www.gutenberg.org/ebooks/1228)
+
 \[8] S. Hawking, *A Brief History of Time*, Bantam Books, 1988. Available: [https://en.wikipedia.org/wiki/A\_Brief\_History\_of\_Time](https://en.wikipedia.org/wiki/A_Brief_History_of_Time)
+
 \[9] A. Einstein, "Relativity: The Special and the General Theory," 1916. Available: [https://en.wikipedia.org/wiki/Relativity:\_The\_Special\_and\_the\_General\_Theory](https://en.wikipedia.org/wiki/Relativity:_The_Special_and_the_General_Theory)
+
 \[10] I. Newton, *Philosophiæ Naturalis Principia Mathematica*, 1687. Available: [https://en.wikipedia.org/wiki/Philosophi%C3%A6\_Naturalis\_Principia\_Mathematica](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica)
+
 \[11] R. Descartes, *Discourse on the Method*, 1637. Available: [https://en.wikipedia.org/wiki/Discourse\_on\_the\_Method](https://en.wikipedia.org/wiki/Discourse_on_the_Method)
+
 \[12] G. Galilei, *Dialogue Concerning the Two Chief World Systems*, 1632. Available: [https://en.wikipedia.org/wiki/Dialogo](https://en.wikipedia.org/wiki/Dialogo)
+
 \[13] L. da Vinci, *Codex Leicester* (selected writings), c. 1510. Available: [https://en.wikipedia.org/wiki/Codex\_Leicester](https://en.wikipedia.org/wiki/Codex_Leicester)
 
 ## License
