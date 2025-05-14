@@ -37,13 +37,27 @@ Where:
 
 > For the foundational work defining the wisdom equation, see: Rogério Figurelli, *The Equation of Wisdom: An Intuitive Approach to Balancing AI and Human Values*, 2022 \[1].
 
-TEI proposes that **evolution (E)** is the rate of change over time of the joint expression of W and H:
+TEI proposes that **evolution (E)** is the rate of change over time of the joint expression of **wisdom (W)** and **harmony (H)**.
+
+A simplified way to express this is:
+
+$$
+E = \frac{d}{dt}(W \cdot H)
+$$
+
+In this form, evolution is understood as the rate of change — over time — of the integration between **wisdom (W)** and **harmony (H)**. It reflects the idea that sustainable growth comes not just from knowledge or structure alone, but from their joint evolution.
+
+For those interested in a more detailed formulation, the model expands further. In the TEI framework, **wisdom** is defined as intelligence raised to the power of consciousness, and **harmony** as coherence sustained in the presence of entropy. 
+
+Together, this leads to:
 
 $$
 E(t) = \frac{d}{dt} \left[ I(t)^{C(t)} \cdot \frac{QE(t)^\gamma}{1 + S(t)^\delta} \right]
 $$
 
-This equation formalizes the notion that **evolution is not merely the accumulation of intelligence or order, but their integration under the influence of consciousness and coherence**. This insight resonates with the cosmological visions of **Galileo** \[12], **Newton** \[10], **Descartes** \[11], and **Leonardo da Vinci** \[13], who each contributed to understanding the unfolding structure and order in nature.
+This expression formalizes the idea that **evolution is not merely the accumulation of intelligence or order, but their conscious and relational integration**. It combines four forces: intelligence, consciousness, connection, and complexity management — and suggests that true evolution emerges from their synergy.
+
+This insight resonates with the cosmological visions of **Galileo**, **Newton**, **Descartes**, and **Leonardo da Vinci**, who each contributed to understanding the unfolding structure and order in nature.
 
 Evolution is thus viewed as the unfolding synergy between intelligence, consciousness, connection, and resilience.
 
